@@ -1,0 +1,46 @@
+export default [
+  {
+    id: 1,
+    title: "Saint Martin Starting at $1000",
+    image: require("../assets/images/dubai.jpg"),
+   
+    price: "$ 83",
+    duration: "3 hours",
+    rating: 3.5,
+    description:
+      "Qui sint commodo pariatur laborum excepteur cillum ex. Sit quis do velit veniam commodo id. Eiusmod sit nostrud irure eiusmod pariatur officia.",
+  },
+  {
+    id: 2,
+    title: "Paris,France Starting at $1200",
+    image: require("../assets/images/anthony-delanoix-Q0-fOL2nqZc-unsplash.jpg"),
+  
+    price: "$ 982",
+    duration: "3 hours",
+    rating: 3.5,
+    description:
+      "Aute exercitation amet aliqua minim. Duis elit aliqua nisi in id anim velit aliquip. Reprehenderit eiusmod nulla pariatur aliquip eu aliquip sit sit minim consequat non elit.",
+  },
+  {
+    id: 3,
+    title: "Saint Martin Starting at $1000",
+    image: require("../assets/images/bali.jpg"),
+   
+    price: "$ 214",
+    duration: "3 hours",
+    rating: 3.5,
+    description:
+      "Adipisicing nulla cupidatat dolore commodo dolore dolor consequat. Ipsum aliquip incididunt aliquip adipisicing minim amet aliquip. Reprehenderit duis ea minim esse laborum dolore consequat anim et voluptate elit est nisi velit. Ullamco elit commodo aliquip Lorem voluptate cupidatat dolore nulla ut laborum in. Lorem ipsum nostrud enim Lorem. Cupidatat non et eu ea ipsum sit fugiat pariatur tempor labore officia ullamco et. Cillum aute magna minim cillum nostrud laborum culpa quis veniam ullamco et excepteur.",
+  },
+  {
+    id: 4,
+    title: "Paris,France Starting at $1200",
+    image: require("../assets/images/jezael-melgoza-7H77FWkK_x4-unsplash.jpg"),
+   
+    price: "$ 98",
+    duration: "3 hours",
+    rating: 3.5,
+    description:
+      "Fugiat anim excepteur reprehenderit velit ullamco officia. Non aliquip aliquip sunt magna laboris Lorem laboris ut ea. Tempor ad aliqua magna duis Lorem sunt anim cillum enim in.",
+  },
+];
